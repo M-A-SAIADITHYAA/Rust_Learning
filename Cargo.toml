@@ -9,4 +9,6 @@ edition = "2021"
 name = "ownership"
 path = "src/main.rs"
 
-
+[[bin]]
+name = "ownership2"
+path = "src/literals_operators_in_rust.rs"
