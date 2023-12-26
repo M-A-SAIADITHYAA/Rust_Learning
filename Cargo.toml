@@ -1,0 +1,12 @@
+[package]
+name = "your_project_name"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "ownership"
+path = "src/main.rs"
+
+
