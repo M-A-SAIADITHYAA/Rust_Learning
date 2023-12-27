@@ -20,3 +20,7 @@ path = "src/celsius to farenheit.rs"
 [[bin]]
 name = "ownership4"
 path = "src/chrmsg.rs"
+
+[[bin]]
+name = "ownership5"
+path = "src/fibonauci.rs"
