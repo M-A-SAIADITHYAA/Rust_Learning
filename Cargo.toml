@@ -12,3 +12,8 @@ path = "src/main.rs"
 [[bin]]
 name = "ownership2"
 path = "src/literals_operators_in_rust.rs"
+
+[[bin]]
+name = "ownership3"
+path = "src/celsius to farenheit.rs"
+
