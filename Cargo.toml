@@ -28,3 +28,7 @@ path = "src/fibonauci.rs"
 [[bin]]
 name = "ownership6"
 path = "src/area_of_triangle.rs"
+
+[[bin]]
+name = "ownership7"
+path = "src/area_of_circle.rs"
